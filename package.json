@@ -1,8 +1,9 @@
 {
   "name": "simpbench",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simplistic web app benchmarking tool",
   "main": "index.js",
+  "homepage": "https://github.com/kflu/simplistic-benchmark",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
